@@ -1,0 +1,47 @@
+.MeetingCard-hugger {
+  border: 1px solid black;
+}
+
+.card-holder {
+  display: flex;
+  gap: 3rem;
+  margin: 3rem;
+  text-align: center;
+  width: 30rem;
+}
+.MeetingCard-h1 {
+  font-size: 3rem;
+  text-decoration: underline;
+}
+.MeetingCard-img {
+  width: 28rem;
+  margin: 0;
+  padding: 0;
+}
+
+.MeetingCard-date {
+  padding-bottom: 0;
+  margin-bottom: 0;
+  color: rgb(224, 5, 5);
+}
+
+.MeetingCard-location {
+  padding-top: 0;
+  margin-top: 0;
+}
+
+.MeetingCard-h2 {
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+.MeetingCard-agenda {
+  font-size: 1.2rem;
+  padding-top: 0;
+  margin-top: 0;
+}
+
+.MeetingCard-span {
+  color: rgb(224, 5, 5);
+  font-weight: bold;
+}
